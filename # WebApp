@@ -1,0 +1,16 @@
+# WebApp
+
+A modern web application built with React and Node.js.
+
+## Features
+
+- Responsive design
+- Authentication
+- REST API integration
+- Dark mode
+
+## Installation
+
+```bash
+npm install
+npm run dev
