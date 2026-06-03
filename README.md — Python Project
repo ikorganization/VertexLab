@@ -1,0 +1,14 @@
+
+---
+
+# 2. README.md — Python Project
+
+```md
+# Python Toolkit
+
+A collection of Python utilities for automation and data processing.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
